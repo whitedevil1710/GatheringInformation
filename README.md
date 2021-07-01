@@ -8,7 +8,7 @@
 
 **MALTEGO**
 
-Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks. So I used maltego to find the information of the page
+Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks. So I used maltego to find the information of the page: [https://aumsam.amrita.edu/](https://aumsam.amrita.edu/)
 
 ![](https://github.com/whitedevil1710/GatheringInformation/blob/main/maltego.png)
 
